@@ -287,6 +287,10 @@ agent-mesh publish                        # Sign and push to Mesh Registry
 
 ---
 
+---
+
+---
+
 ## Author & Contact
 
 - **GitHub:** [@rouviour-german](https://github.com/rouviour-german)
